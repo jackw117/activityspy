@@ -1,0 +1,20 @@
+﻿01-15 00:23:20.798 30357-30357/? I/art: Not late-enabling -Xcheck:jni (already on)
+01-15 00:23:20.798 30357-30357/? W/art: Unexpected CPU variant for X86 using defaults: x86
+01-15 00:23:20.827 30357-30364/? E/art: Failed writing handshake bytes (-1 of 14): Broken pipe
+01-15 00:23:20.827 30357-30364/? I/art: Debugger is no longer active
+01-15 00:23:20.827 30357-30364/? I/art: Starting a blocking GC Instrumentation
+01-15 00:23:20.844 30357-30357/? W/System: ClassLoader referenced unknown path: /data/app/edu.washington.jackw117.activityspy-1/lib/x86
+                                           
+                                           [ 01-15 00:23:20.861  1540: 1561 D/         ]
+                                           HostConnection::get() New Host Connection established 0x8c3a4540, tid 1561
+01-15 00:23:20.862 30357-30357/? I/InstantRun: Instant Run Runtime started. Android package is edu.washington.jackw117.activityspy, real application class is null.
+01-15 00:23:21.000 30357-30357/? W/System: ClassLoader referenced unknown path: /data/app/edu.washington.jackw117.activityspy-1/lib/x86
+01-15 00:23:21.045 30357-30357/? I/MainActivity: onCreate event fired, no previous instances
+01-15 00:23:21.085 30357-30373/? I/OpenGLRenderer: Initialized EGL, version 1.4
+01-15 00:23:21.085 30357-30373/? D/OpenGLRenderer: Swap behavior 1
+01-15 00:23:21.125 30357-30373/? E/EGL_emulation: tid 30373: eglSurfaceAttrib(1146): error 0x3009 (EGL_BAD_MATCH)
+01-15 00:23:21.125 30357-30373/? W/OpenGLRenderer: Failed to set EGL_SWAP_BEHAVIOR on surface 0x95cf20a0, error=EGL_BAD_MATCH
+01-15 00:23:29.057 30357-30357/edu.washington.jackw117.activityspy E/MainActivity: We’re going down, Captain!
+01-15 00:23:29.076 30357-30357/edu.washington.jackw117.activityspy I/MainActivity: onCreate event fired, recreating previous instance
+01-15 00:23:29.132 30357-30373/edu.washington.jackw117.activityspy E/EGL_emulation: tid 30373: eglSurfaceAttrib(1146): error 0x3009 (EGL_BAD_MATCH)
+01-15 00:23:29.132 30357-30373/edu.washington.jackw117.activityspy W/OpenGLRenderer: Failed to set EGL_SWAP_BEHAVIOR on surface 0xa22a8960, error=EGL_BAD_MATCH
